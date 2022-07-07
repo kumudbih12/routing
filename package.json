@@ -68,7 +68,7 @@
     "draft-js": "0.10.5",
     "draftjs-to-html": "0.8.4",
     "express": "4.16.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.8.6",
     "react-color": "2.17.0",
     "react-dom": "16.8.6",
